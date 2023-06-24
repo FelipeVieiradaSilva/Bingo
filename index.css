@@ -1,0 +1,35 @@
+*{
+  background-color: beige;
+}
+.player-container {
+  margin-bottom: 20px;
+}
+
+.board {
+  margin-bottom: 20px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.column-label {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 5px;
+}
+
+.cell {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.marked {
+  background-color: lightgreen;
+}
+  
